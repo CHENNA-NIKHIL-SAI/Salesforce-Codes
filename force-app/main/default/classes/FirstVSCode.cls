@@ -3,5 +3,6 @@ public with sharing class FirstVSCode {
   {
     System.debug('Hello');
     System.debug('Hi');
+    System.debug('Hey')
   }
 }
